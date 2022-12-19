@@ -1,0 +1,15 @@
+/Users/chriswarren/Documents/Coding/CSharp/TestApp/TestApp/bin/Debug/net7.0/TestApp
+/Users/chriswarren/Documents/Coding/CSharp/TestApp/TestApp/bin/Debug/net7.0/TestApp.deps.json
+/Users/chriswarren/Documents/Coding/CSharp/TestApp/TestApp/bin/Debug/net7.0/TestApp.runtimeconfig.json
+/Users/chriswarren/Documents/Coding/CSharp/TestApp/TestApp/bin/Debug/net7.0/TestApp.dll
+/Users/chriswarren/Documents/Coding/CSharp/TestApp/TestApp/bin/Debug/net7.0/TestApp.pdb
+/Users/chriswarren/Documents/Coding/CSharp/TestApp/TestApp/obj/Debug/net7.0/MyFirstApp.csproj.AssemblyReference.cache
+/Users/chriswarren/Documents/Coding/CSharp/TestApp/TestApp/obj/Debug/net7.0/MyFirstApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chriswarren/Documents/Coding/CSharp/TestApp/TestApp/obj/Debug/net7.0/MyFirstApp.AssemblyInfoInputs.cache
+/Users/chriswarren/Documents/Coding/CSharp/TestApp/TestApp/obj/Debug/net7.0/MyFirstApp.AssemblyInfo.cs
+/Users/chriswarren/Documents/Coding/CSharp/TestApp/TestApp/obj/Debug/net7.0/MyFirstApp.csproj.CoreCompileInputs.cache
+/Users/chriswarren/Documents/Coding/CSharp/TestApp/TestApp/obj/Debug/net7.0/TestApp.dll
+/Users/chriswarren/Documents/Coding/CSharp/TestApp/TestApp/obj/Debug/net7.0/refint/TestApp.dll
+/Users/chriswarren/Documents/Coding/CSharp/TestApp/TestApp/obj/Debug/net7.0/TestApp.pdb
+/Users/chriswarren/Documents/Coding/CSharp/TestApp/TestApp/obj/Debug/net7.0/MyFirstApp.genruntimeconfig.cache
+/Users/chriswarren/Documents/Coding/CSharp/TestApp/TestApp/obj/Debug/net7.0/ref/TestApp.dll

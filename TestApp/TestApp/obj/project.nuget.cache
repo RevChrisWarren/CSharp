@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OftJClxWUC8MYhHvuZ9dumqzStTwrKOW3/mCkXY3/96OWkXUz69yghKqP8yI9KDeL+j0Mmq5q6ZCKk847jGQng==",
+  "dgSpecHash": "IFK4EN4U6Q2T3WXPXAc0paM3iuaV+U4FphYrfguAjB91Cx2YrW2vmBj64Cog01XwagnX3UIlYzOnxhnO3JjIdg==",
   "success": true,
-  "projectFilePath": "/Users/chriswarren/Documents/Coding/CSharp/TestApp/TestApp/TestApp.csproj",
+  "projectFilePath": "/Users/chriswarren/Documents/Coding/CSharp/TestApp/TestApp/MyFirstApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

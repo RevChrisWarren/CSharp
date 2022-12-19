@@ -1,3 +1,9 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿class Sample
+{
+    static void Main()
+    {
+        System.Console.WriteLine("Hello!");
+        System.Console.ReadKey();
+    }
+}
 
