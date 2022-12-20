@@ -14,7 +14,7 @@
     "version": "1.0.0",
     "restore": {
       "projectUniqueName": "/Users/chriswarren/Documents/Coding/CSharp/TestApp/TestApp/MyFirstApp.csproj",
-      "projectName": "MyFirstApp",
+      "projectName": "TestApp",
       "projectPath": "/Users/chriswarren/Documents/Coding/CSharp/TestApp/TestApp/MyFirstApp.csproj",
       "packagesPath": "/Users/chriswarren/.nuget/packages/",
       "outputPath": "/Users/chriswarren/Documents/Coding/CSharp/TestApp/TestApp/obj/",
