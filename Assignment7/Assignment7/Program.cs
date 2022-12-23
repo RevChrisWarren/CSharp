@@ -24,6 +24,27 @@
         {
             System.Console.Write(i + " ");
         }
+        System.Console.WriteLine();
+        i = 10;
+        while (i >= 1)
+        {
+            System.Console.Write(i + " ");
+            i--;
+        }
+        System.Console.WriteLine();
+        for (i = 10; i > 0; i--)
+        {
+            System.Console.Write(i + " ");
+        }
+        System.Console.WriteLine();
+        for (i = 10; i > 0; i--)
+        {
+            System.Console.Write(i + " ");
+            if (i==3) {
+                break;
+                    }
+        }
+        System.Console.WriteLine();
 
         System.Console.ReadKey();
     }
