@@ -46,6 +46,27 @@
         }
         System.Console.WriteLine();
 
+        i = 10;
+        do
+
+        {
+            System.Console.Write(i + " ");
+            i--;
+        } while (i > 0);
+
+        System.Console.WriteLine();
+
+
+        for (i = 1; i <= 10; i++)
+        {
+            if (i == 8)
+            {
+                continue;
+            }
+            System.Console.Write(i + " ");
+          
+        }
+
         System.Console.ReadKey();
     }
    
