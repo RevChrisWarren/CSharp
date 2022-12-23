@@ -1,0 +1,15 @@
+/Users/chriswarren/Documents/Coding/CSharp/Assignment7/Assignment7/obj/Debug/net7.0/Assignment7.csproj.AssemblyReference.cache
+/Users/chriswarren/Documents/Coding/CSharp/Assignment7/Assignment7/obj/Debug/net7.0/Assignment7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chriswarren/Documents/Coding/CSharp/Assignment7/Assignment7/obj/Debug/net7.0/Assignment7.AssemblyInfoInputs.cache
+/Users/chriswarren/Documents/Coding/CSharp/Assignment7/Assignment7/obj/Debug/net7.0/Assignment7.AssemblyInfo.cs
+/Users/chriswarren/Documents/Coding/CSharp/Assignment7/Assignment7/obj/Debug/net7.0/Assignment7.csproj.CoreCompileInputs.cache
+/Users/chriswarren/Documents/Coding/CSharp/Assignment7/Assignment7/bin/Debug/net7.0/Assignment7
+/Users/chriswarren/Documents/Coding/CSharp/Assignment7/Assignment7/bin/Debug/net7.0/Assignment7.deps.json
+/Users/chriswarren/Documents/Coding/CSharp/Assignment7/Assignment7/bin/Debug/net7.0/Assignment7.runtimeconfig.json
+/Users/chriswarren/Documents/Coding/CSharp/Assignment7/Assignment7/bin/Debug/net7.0/Assignment7.dll
+/Users/chriswarren/Documents/Coding/CSharp/Assignment7/Assignment7/bin/Debug/net7.0/Assignment7.pdb
+/Users/chriswarren/Documents/Coding/CSharp/Assignment7/Assignment7/obj/Debug/net7.0/Assignment7.dll
+/Users/chriswarren/Documents/Coding/CSharp/Assignment7/Assignment7/obj/Debug/net7.0/refint/Assignment7.dll
+/Users/chriswarren/Documents/Coding/CSharp/Assignment7/Assignment7/obj/Debug/net7.0/Assignment7.pdb
+/Users/chriswarren/Documents/Coding/CSharp/Assignment7/Assignment7/obj/Debug/net7.0/Assignment7.genruntimeconfig.cache
+/Users/chriswarren/Documents/Coding/CSharp/Assignment7/Assignment7/obj/Debug/net7.0/ref/Assignment7.dll
