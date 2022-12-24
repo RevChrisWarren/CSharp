@@ -30,7 +30,7 @@
                 
 
                 //Show main menu
-                System.Console.WriteLine("\n:::Main Menu Here:::");
+                System.Console.WriteLine("\n:::Main Menu:::");
                 System.Console.WriteLine("1. Customers");
                 System.Console.WriteLine("2. Accounts");
                 System.Console.WriteLine("3. Funds Transfer");
@@ -43,9 +43,9 @@
 
                 switch (mainMenuChoice)
                 {
-                    case 1: //TODO: DISPLAY CUSTOMERS MENU
+                    case 1: CustomersMenu();
                         break;
-                    case 2: //TODO: DISPLAY ACCOUNTS MENU
+                    case 2: AccountsMenu();
                         break;
                     case 3: //TODO: DISPLAY FUNDS TRANSFER MENU
                         break;
@@ -66,6 +66,66 @@
         System.Console.WriteLine("Thank You. Visit Again!");
         System.Console.ReadKey();
 
+    }
+    static void CustomersMenu()
+    {
+        //variable to store CustomersMenuChoice
+        int customerMenuChoice = -1;
+        do
+        {
+            System.Console.WriteLine("\n:::Customers Menu:::");
+            System.Console.WriteLine("1. Add Customer");
+            System.Console.WriteLine("2. Delete Customer");
+            System.Console.WriteLine("3. Update Customer");
+            System.Console.WriteLine("4. View Customers");
+            System.Console.WriteLine("0. Back to Main Menu");
+
+            switch (customerMenuChoice)
+            {
+                case 1://TODO: Add Customer
+                   break;
+                case 2: //TODO: Delete Customer
+                    break;
+                case 3: //TODO: Update Customer
+                    break;
+                case 4: //TODO: View Customers
+                    break;
+
+            }
+
+            System.Console.Write("Enter Choice: ");
+            customerMenuChoice = int.Parse(System.Console.ReadLine());
+        } while (customerMenuChoice != 0);
+            }
+    static void AccountsMenu()
+    {
+        //variable to store AccountsMenuChoice
+        int accountsMenuChoice = -1;
+        do
+        {
+            System.Console.WriteLine("\n:::Accounts Menu:::");
+            System.Console.WriteLine("1. Add Account");
+            System.Console.WriteLine("2. Delete Account");
+            System.Console.WriteLine("3. Update Account");
+            System.Console.WriteLine("4. View Accounts");
+            System.Console.WriteLine("0. Back to Main Menu");
+
+            switch (accountsMenuChoice)
+            {
+                case 1://TODO: Add Account
+                    break;
+                case 2: //TODO: Delete Account
+                    break;
+                case 3: //TODO: Update Account
+                    break;
+                case 4: //TODO: View Accounts
+                    break;
+
+            }
+
+            System.Console.Write("Enter Choice: ");
+            accountsMenuChoice = int.Parse(System.Console.ReadLine());
+        } while (accountsMenuChoice != 0);
     }
 }
 
