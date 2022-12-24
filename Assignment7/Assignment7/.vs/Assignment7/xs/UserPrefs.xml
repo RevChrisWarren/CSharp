@@ -1,9 +1,8 @@
-﻿<Properties StartupConfiguration="{B09EDA56-14F6-47E1-889C-28FD82A78B8A}|Default">
+﻿<Properties StartupConfiguration="{53661F2D-4F51-46C7-A57E-2AB6A67460C0}|Default">
   <MonoDevelop.Ide.ItemProperties.Assignment7 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assignment7/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
-      <File FileName="Assignment7/Program.cs" Line="1" Column="1" />
-      <File FileName="../PracticingOperators/PracticingOperators/Program.cs" Line="1" Column="1" />
+      <File FileName="Program.cs" Line="74" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">

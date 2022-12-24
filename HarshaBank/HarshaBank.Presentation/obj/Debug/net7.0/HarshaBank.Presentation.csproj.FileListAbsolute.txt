@@ -1,0 +1,15 @@
+/Users/chriswarren/Documents/Coding/CSharp/HarshaBank/HarshaBank.Presentation/bin/Debug/net7.0/HarshaBank.Presentation
+/Users/chriswarren/Documents/Coding/CSharp/HarshaBank/HarshaBank.Presentation/bin/Debug/net7.0/HarshaBank.Presentation.deps.json
+/Users/chriswarren/Documents/Coding/CSharp/HarshaBank/HarshaBank.Presentation/bin/Debug/net7.0/HarshaBank.Presentation.runtimeconfig.json
+/Users/chriswarren/Documents/Coding/CSharp/HarshaBank/HarshaBank.Presentation/bin/Debug/net7.0/HarshaBank.Presentation.dll
+/Users/chriswarren/Documents/Coding/CSharp/HarshaBank/HarshaBank.Presentation/bin/Debug/net7.0/HarshaBank.Presentation.pdb
+/Users/chriswarren/Documents/Coding/CSharp/HarshaBank/HarshaBank.Presentation/obj/Debug/net7.0/HarshaBank.Presentation.csproj.AssemblyReference.cache
+/Users/chriswarren/Documents/Coding/CSharp/HarshaBank/HarshaBank.Presentation/obj/Debug/net7.0/HarshaBank.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chriswarren/Documents/Coding/CSharp/HarshaBank/HarshaBank.Presentation/obj/Debug/net7.0/HarshaBank.Presentation.AssemblyInfoInputs.cache
+/Users/chriswarren/Documents/Coding/CSharp/HarshaBank/HarshaBank.Presentation/obj/Debug/net7.0/HarshaBank.Presentation.AssemblyInfo.cs
+/Users/chriswarren/Documents/Coding/CSharp/HarshaBank/HarshaBank.Presentation/obj/Debug/net7.0/HarshaBank.Presentation.csproj.CoreCompileInputs.cache
+/Users/chriswarren/Documents/Coding/CSharp/HarshaBank/HarshaBank.Presentation/obj/Debug/net7.0/HarshaBank.Presentation.dll
+/Users/chriswarren/Documents/Coding/CSharp/HarshaBank/HarshaBank.Presentation/obj/Debug/net7.0/refint/HarshaBank.Presentation.dll
+/Users/chriswarren/Documents/Coding/CSharp/HarshaBank/HarshaBank.Presentation/obj/Debug/net7.0/HarshaBank.Presentation.pdb
+/Users/chriswarren/Documents/Coding/CSharp/HarshaBank/HarshaBank.Presentation/obj/Debug/net7.0/HarshaBank.Presentation.genruntimeconfig.cache
+/Users/chriswarren/Documents/Coding/CSharp/HarshaBank/HarshaBank.Presentation/obj/Debug/net7.0/ref/HarshaBank.Presentation.dll
