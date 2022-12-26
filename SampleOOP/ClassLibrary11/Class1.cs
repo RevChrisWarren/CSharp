@@ -1,5 +1,4 @@
-﻿namespace ClassLibrary11;
-public class Class1
+﻿internal class Customer
 {
 
 }
