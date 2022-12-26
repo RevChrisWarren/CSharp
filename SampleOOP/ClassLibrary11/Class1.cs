@@ -1,5 +1,6 @@
-﻿internal class Customer
+﻿public class Customer
 {
-
+    public int customerID;
+    public string customerName;
 }
 

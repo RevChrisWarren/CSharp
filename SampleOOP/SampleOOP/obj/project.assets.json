@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {}
+    "net7.0": {
+      "ClassLibrary11/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/ClassLibrary11.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ClassLibrary11.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "ClassLibrary11/1.0.0": {
+      "type": "project",
+      "path": "../ClassLibrary11/ClassLibrary11.csproj",
+      "msbuildProject": "../ClassLibrary11/ClassLibrary11.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net7.0": []
+    "net7.0": [
+      "ClassLibrary11 >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "/Users/chriswarren/.nuget/packages/": {}
@@ -32,7 +51,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/chriswarren/Documents/Coding/CSharp/SampleOOP/ClassLibrary11/ClassLibrary11.csproj": {
+              "projectPath": "/Users/chriswarren/Documents/Coding/CSharp/SampleOOP/ClassLibrary11/ClassLibrary11.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
