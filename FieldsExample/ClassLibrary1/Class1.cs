@@ -1,6 +1,9 @@
-﻿namespace ClassLibrary1;
-public class Class1
+﻿public class Product
 {
-
+    //fields
+    public int productID;
+    public string productName;
+    public double cost;
+    public int quantityInStock;
 }
 
