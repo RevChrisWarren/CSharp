@@ -1,5 +1,28 @@
 ﻿<Properties StartupConfiguration="{2D240D09-0CCE-43A1-A261-0B7099E29C5A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SampleOOP/Program.cs">
+    <Files>
+      <File FileName="SampleOOP/Program.cs" Line="9" Column="27" />
+      <File FileName="ClassLibrary11/Class1.cs" Line="4" Column="13" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SampleOOP" expanded="True">
+            <Node name="ClassLibrary11" expanded="True" />
+            <Node name="SampleOOP" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.ClassLibrary11 FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.SampleOOP FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
