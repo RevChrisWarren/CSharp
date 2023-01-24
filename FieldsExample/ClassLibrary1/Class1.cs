@@ -7,3 +7,10 @@
     public int quantityInStock;
 }
 
+public class DomesticProduct:Product
+{
+}
+public class OtherClass
+
+{
+}

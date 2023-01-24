@@ -1,5 +1,25 @@
 ﻿<Properties StartupConfiguration="{EF17C60D-DE12-4292-A154-BCFCED6F032E}|Default">
-  <MonoDevelop.Ide.ItemProperties.ClassLibrary1 FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../ClassLibrary1/Class1.cs">
+    <Files>
+      <File FileName="../ClassLibrary1/Class1.cs" Line="10" Column="37" />
+      <File FileName="Program.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FieldsExample" expanded="True">
+            <Node name="ClassLibrary1" expanded="True" />
+            <Node name="FieldsExample" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.FieldsExample PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
