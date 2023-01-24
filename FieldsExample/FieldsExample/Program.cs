@@ -44,7 +44,21 @@
         System.Console.WriteLine("Product Cost: " + product3.cost);
         System.Console.WriteLine("Quantity in Stock: " + product3.quantityInStock);
 
-            System.Console.ReadKey();
+        int totalQuantity = product1.quantityInStock + product2.quantityInStock + product3.quantityInStock;
+        System.Console.WriteLine("Total Quantity: " + totalQuantity);
+        double highestCost = 0;
+
+        if (product1.cost * product1.quantityInStock > product2.cost * product2.quantityInStock)
+            highestCost = product1.cost * product1.quantityInStock;
+        else highestCost = product2.cost * product2.quantityInStock;
+
+        if (product3.cost * product3.quantityInStock > product2.cost * product2.quantityInStock)
+            highestCost = product3.cost * product3.quantityInStock;
+        else highestCost = product2.cost * product2.quantityInStock;
+
+        System.Console.WriteLine("Higest Cost = " + highestCost);
+
+        System.Console.ReadKey();
     }
 }
 
