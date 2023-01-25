@@ -56,7 +56,7 @@
             highestCost = product3.cost * product3.quantityInStock;
         else highestCost = product2.cost * product2.quantityInStock;
 
-        System.Console.WriteLine("Higest Cost = " + highestCost);
+        System.Console.WriteLine("Highest Cost = " + highestCost);
 
         System.Console.ReadKey();
     }
