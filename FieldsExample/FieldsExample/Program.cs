@@ -6,8 +6,11 @@
 
         //create objects
         product1 = new Product();
+        Product.TotalNoProducts++; //1
         product2 = new Product();
+        Product.TotalNoProducts++; //2
         product3 = new Product();
+        Product.TotalNoProducts++; //3
 
         //initialize fields
         product1.productID = 1001;
@@ -24,6 +27,8 @@
         product3.productName = "Speakers";
         product3.cost = 36000;
         product3.quantityInStock = 800;
+
+       
 
         //get values from fields
         System.Console.WriteLine("Product 1:");
@@ -52,11 +57,12 @@
             highestCost = product1.cost * product1.quantityInStock;
         else highestCost = product2.cost * product2.quantityInStock;
 
-        if (product3.cost * product3.quantityInStock > product2.cost * product2.quantityInStock)
+        if (product3.cost * product3.quantityInStock > highestCost)
             highestCost = product3.cost * product3.quantityInStock;
-        else highestCost = product2.cost * product2.quantityInStock;
+        else highestCost = highestCost;
 
         System.Console.WriteLine("Highest Cost = " + highestCost);
+        System.Console.WriteLine("Total number of products = " + Product.TotalNoProducts);
 
         System.Console.ReadKey();
     }
@@ -70,4 +76,5 @@ public class InternationalProduct : Product
 public class OtherClass2
 
 {
+    
 }
